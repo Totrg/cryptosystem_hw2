@@ -1,7 +1,12 @@
-# cryptosystem_hw2
+# ДЗ-2 Криптосистема
+
+## Комментарий
+Программа шифрует и дешифрует вводимые данные, и заносит их в файл. Используются операции гаммирования и циклического сдвига.
+
+## How to use
 To start this program paste the path of ```cryptosys.exe``` file in cmd. 
 
-**Return codes:**
+## Return codes
 
 **0:** completed successfully
 
